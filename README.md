@@ -20,7 +20,7 @@ A simple and interactive Restaurant Management System built using Python and Tki
 ## 🖥️ Screenshots
 
 ### Main Interface
-![App Screenshot](homess.png)
+![App Screenshot](screenshot.png)
 
 ---
 
@@ -39,7 +39,7 @@ A simple and interactive Restaurant Management System built using Python and Tki
 restaurant-management-system-tkinter/
 │
 ├── main.py
-├── homess.png
+├── screenshot.png
 ├── README.md
 
 ---
